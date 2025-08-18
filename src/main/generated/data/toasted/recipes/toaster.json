@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:dried_kelp"
+    }
+  },
+  "pattern": [
+    "ICI",
+    "ICI",
+    "SRS"
+  ],
+  "result": {
+    "item": "toasted:toaster"
+  },
+  "show_notification": true
+}

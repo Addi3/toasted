@@ -1,0 +1,12 @@
+{
+  "toaster": {
+    "sounds": [
+      "toasted:toaster"
+    ]
+  },
+  "toaster_active": {
+    "sounds": [
+      "toasted:toaster_active"
+    ]
+  }
+}

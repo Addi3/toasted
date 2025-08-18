@@ -1,0 +1,8 @@
+{
+  "block.toasted.toaster": "Toaster",
+  "death.attack.toaster": "%1$s was electrocuted by a toaster",
+  "death.attack.toaster.player": "%1$s was electrocuted by a toaster while fighting %2$s",
+  "item.toasted.burnt_toast": "Burnt Toast",
+  "item.toasted.toast": "Toast",
+  "itemGroup.toasted.item_group": "Toasted"
+}

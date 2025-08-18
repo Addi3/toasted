@@ -1,29 +1,29 @@
 {
 	"schemaVersion": 1,
-	"id": "template-mod",
+	"id": "toasted",
 	"version": "${version}",
-	"name": "Template Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Toasted",
+	"description": "Here you go saturn",
 	"authors": [
-		"Me!"
+		"ADDIE"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/template-mod/icon.png",
+	"icon": "assets/toasted/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.addie.toasted.TemplateMod"
+          "com.addie.toasted.ToastedMod"
 		],
 		"fabric-datagen": [
-			"com.addie.toasted.TemplateModDataGenerator"
+          "com.addie.toasted.ToastedModDataGenerator"
 		]
 	},
 	"mixins": [
-		"template-mod.mixins.json"
+
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",
